@@ -26,6 +26,11 @@ public class ClassB
 	  {
 		  Reporter.log("Logout test successfull", true);
 	  }
+	@Test
+	  public void email() 
+	  {
+		  Reporter.log("email report sent successfull", true);
+	  }
 
 
 }
