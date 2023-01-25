@@ -26,6 +26,10 @@ public class Class2
 	  {
 		  Reporter.log("Login test successfull", true);
 	  }
-
+	@Test
+	  public void Screenshot() 
+	  {
+		  Reporter.log("Screen captured successfully", true);
+	  }
 
 }
