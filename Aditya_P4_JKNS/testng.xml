@@ -5,6 +5,7 @@
 		<classes>
 			<class name="jk1.ClassA"></class>
 			<class name="jk2.ClassB"></class>
+			<class name="jk3.ClassC"></class>
 		</classes>
 	</test>
 </suite>
