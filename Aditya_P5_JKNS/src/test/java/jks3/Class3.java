@@ -21,4 +21,10 @@ public class Class3
 	  {
 		  Reporter.log("tc009 executed successfull", true);
 	  }
+	  
+	  @Test
+	  public void screens() 
+	  {
+		  Reporter.log("screens are verified", true);
+	  }
 }
