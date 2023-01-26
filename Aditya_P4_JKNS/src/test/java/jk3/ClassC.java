@@ -21,5 +21,11 @@ public class ClassC
 	  {
 		  Reporter.log("tc009 executed successfull", true);
 	  }
+	  
+	  @Test
+	  public void tc010() 
+	  {
+		  Reporter.log("tc010 executed successfull", true);
+	  }
 
 }
